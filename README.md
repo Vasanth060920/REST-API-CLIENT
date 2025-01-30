@@ -12,4 +12,7 @@ DOMAIN: JAVA PROGRAMMING
 
 MENTOR: NEELA SANTHOSH
 
-DESCRIPTION:
+DESCRIPTION: This program fetches realtime weather data for a given city using open weather map API.
+
+OUTPUT:
+
