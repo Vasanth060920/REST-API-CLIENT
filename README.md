@@ -16,4 +16,4 @@ DESCRIPTION: This program fetches realtime weather data for a given city using o
 
 OUTPUT: 
 
-
+![Image](https://github.com/user-attachments/assets/506b95e0-2f61-4930-8bcf-64f853692f63)
